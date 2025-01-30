@@ -1,4 +1,3 @@
-```markdown
 # Chat with Gemini-Pro! 🤖
 
 A simple chatbot interface built with Streamlit that interacts with the Google Gemini-Pro AI model. This app allows users to engage in conversations with the Gemini-Pro AI while providing a visually appealing background.
